@@ -153,4 +153,4 @@ kubectl delete all --all
 
 ## 📄 Licencia
 
-MIT © [Tu nombre]
+MIT © [Ramiro Garcia]
